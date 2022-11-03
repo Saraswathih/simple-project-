@@ -1,2 +1,3 @@
 # simple-project-
-This is a demo project 
+This is a simple project 
+ This is m first class 
